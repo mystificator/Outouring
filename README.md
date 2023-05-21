@@ -9,5 +9,5 @@ A website to submit your favourite places and review others.
 - Users can register/login via email and password.
 - Signed in users can submit a new place.
 - Signed in users can review places.
-- A user who owns a place can edit it.
-- Anybody can view all places.
+- A user who owns a post can edit it.
+- Anybody can view all posts.
